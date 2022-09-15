@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.company.app.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-15T21:58:27" hostname="lob-mbp-jh-C02FL1MHMD6P" time="0.001">
+  <properties/>
+  <testcase name="shouldAnswerWithTrue" classname="com.company.app.AppTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
